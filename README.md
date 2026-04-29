@@ -1,5 +1,5 @@
 # MQL5-SKILLS
-A collection of reusable MQL5 skills for building, testing, and automating trading strategies.
+A collection of reusable MQL5 skills for building, testing, and automating trading strategies. Linux-Wine fork of the original. Most of the skills are compatible with both, but some of them especially those regarding creation and reading of files have been adapted for a Linux System using Wine.
 
 ## Repository Structure
 
